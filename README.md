@@ -13,7 +13,7 @@ This project implements an infinite scrolling feature to visualize a virtually e
 To use this application, follow these steps:
 
 1. **Clone the Repository:**
-- git clone https://github.com/Ozan-Boran/Infinite-Scroll.git
+- git clone https://github.com/OzanBoran/Infinite-Scroll.git
 
 2. **Navigate to the Project Directory:**
 - cd Infinite-Scroll
